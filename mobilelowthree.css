@@ -1,0 +1,771 @@
+@media screen and (max-width: 300px){
+
+
+	.menu-container{
+		width: 100%;
+		height: 80px;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		line-height: 80px;
+		position: sticky;
+		z-index: 100000;
+	}
+
+
+
+.logo{
+	width: 100%;
+	height: 80px;
+	background:whitesmoke;
+	transition: 0.3s;
+	line-height: 45px;
+}
+.logo img{
+	width:130px;
+	height: 100%;
+	padding: 10px 10px ;
+
+}
+
+.logo span{
+	font-size: 20px;
+
+}
+
+.logo h1{
+	font-size: 22px;
+	margin-top: 5px;
+}
+
+
+	.home-page{
+		width: 25%;
+		height: auto;
+		padding: 10px;}
+
+
+.home-box{
+	width: 70%;
+	height: 90%;
+	padding: 50px  0px;
+	text-align: center;
+	margin-left: 0px;
+
+}
+.home-box h3{
+	padding: 5px 0px;
+
+}
+.home-box span{
+	color:orange;
+	font-size: 11px;
+	padding-top: -10px;
+	margin-left: 50px;
+	width: 100%;
+	text-align: center;
+
+}
+.home-box h2{
+	width: 100%;
+	margin-left:40px;
+	font-size: 13px;
+	text-align: center;
+	margin-bottom: -10px;
+	
+}
+.home-box p{
+	width: 100%;
+	padding: 10px 0px;
+	margin-left: 50px;
+	font-size: 11px;
+	margin-top: -10px;
+}
+.home-box button{
+	transition: 0.3s;
+	width: 60px;
+	padding: 5px 5px;
+	margin-left: 90px;
+	font-size: 12px;
+	
+	}
+
+.responsive-item ul li {
+	list-style: none;
+	line-height: 40px;
+
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	text-align: center;
+}
+
+
+.responsive-item ul li a{
+	font-size: 12px;
+	padding: 2px 7px;
+	
+
+	border-radius: 5px;
+	color: black;
+	font-weight: 400;
+	transition: 0.2s;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.about-page{
+		padding: 10px 0px;
+	 	margin: 0px 0px;
+	 	height: auto;
+	}
+	.about-page h1{
+	 	font-size: 20px;
+		margin-bottom: 25px;
+		margin-top: 25px;
+	}
+	.about-page p{
+		font-size: 12px;
+		margin-bottom: 60px;
+		margin-left: 5px;
+		
+	}
+
+
+.about-content{
+	display: flex;
+	width: 80%;
+	margin: auto;
+	justify-content: center;
+	margin-bottom: 20px;
+}
+
+
+	.about-content .left-side-content{
+	width: 50%;
+	height: 100%;
+	position: relative;
+	padding: 0px 20px;
+}
+.about-content .left-side-content img{
+	width: 160px;
+	height: 170px;
+	
+}
+
+.about-content .right-side-content{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	padding-right: 0px;
+	
+}
+	
+	
+.right-side-content h2{
+	font-size:14px ;
+	margin-top: -50px;
+	margin-bottom: 30px;
+	width: 150%;
+	
+}
+
+.right-side-content p{
+	font-size: 13px;
+	width: 150%;
+	margin-left: -20%;
+	padding: 0px 5px;
+}
+
+	
+.social-icons i{
+	font-size: 14px;
+	margin-right: 5px;
+	
+
+}
+
+.about-content button{
+	padding: 5px 3px;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.service-container{
+	width: 100%;
+	height: auto;
+	
+	text-align: center;
+	padding: 50px 0px;
+	
+	
+}
+
+
+
+
+.service-container .h1{
+	font-size: 17px;
+	margin-right: 25px;
+	
+}
+
+.service-row{
+	padding:-0px 30px ;
+
+}
+.service-container p{
+	font-size: 13px;
+	margin-left: -20px;
+}
+.service-row div div{
+	background: whitesmoke !important;
+	
+	width: 110%;
+	height: 250px;
+	
+ margin-left: -20px;
+	
+
+}
+
+.service-row div div .image{
+	width: 100%;
+	height: 150px;
+
+}
+.service-row div:first-child{
+	padding-bottom: 50px;
+	background: white;
+}
+.service-row div:first-child h1{
+	font-size: 40px;
+	color: orange;
+	padding-top: 30px;
+}
+.service-row div h1{
+	font-size: 17px !important;
+	color: white;
+	margin-top: -50px;
+
+}
+
+.service-row div div p{
+	font-size: 11px;
+	padding-left: 10px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.skill-page h1{
+	text-align: center;
+	color: #f9a529;
+	font-size: 20px;
+}
+
+
+.skill-page p{
+	padding: 0px 7px;
+	font-size: 13px;
+
+
+}
+.skill-page .left-side-skill h2{
+margin-top: -60px;
+	font-size: 14px;
+	font-weight:300;
+	padding: 0px 8px;
+	
+}
+.skill-page .left-side-skill button{
+	font-size: 13px;
+	margin-left:90px;
+	margin-top:20px;
+	padding: 4px 4px;
+	transition: 0.1s;
+
+	
+}
+.skill-bars{
+
+  padding: 5px 0px;
+  width: 220px;
+
+
+ 
+ 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.portfolio h1{
+	font-size:20px;
+	
+
+}
+.portfolio p{
+	margin-top: 10px;
+  padding: 0px 0px;
+  margin-bottom: 50px;
+  font-size: 13px;
+}
+
+
+
+.bottom h1{
+	font-size: 17px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: white;
+}
+.bottom p{
+	margin-bottom: 5px;
+	margin-top: 0px;
+	
+}
+
+
+.portfolio button{
+  width: 80px;
+  margin-top: 40px;
+  font-size: 14px;
+padding: 7px 2px;  }
+.portfolio-col:nth-child(1):hover .top img{
+	transform: translateY(-1090px);
+}
+.portfolio-col:nth-child(2):hover .top img{
+	transform: translateY(-615px);
+}
+.portfolio-col:nth-child(3):hover .top img{
+	transform: translateY(-780px);
+}
+.portfolio-col:nth-child(4):hover .top img{
+	transform: translateY(-675px);
+}
+.portfolio-col:nth-child(5):hover .top img{
+	transform: translateY(-620px);
+}
+.portfolio-col:nth-child(6):hover .top img{
+	transform: translateY(-615px);
+}
+.portfolio-col:nth-child(7):hover .top img{
+	transform: translateY(-780px);
+}
+.portfolio-col:nth-child(8):hover .top img{
+	transform: translateY(-675px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.paralax{
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.team-section h1{
+	font-size: 20px;
+	margin: 7px 7px;
+}
+.team-section p{
+  font-size: 14px;
+  font-weight: 300;
+  padding: 0px 22px;
+  margin-bottom: 80px;
+}
+
+.team-col{
+	width: 230px !important;
+	height: 250px !important;
+	margin: 10px;
+
+}
+
+.info h2{
+	font-size: 18px;
+	margin-bottom: 0;
+	color: black;
+	margin-top: 8px;
+}
+.info p{
+	font-size: 14px;
+	padding: 5px;
+	margin-bottom: 0;
+}
+
+.team-col .info{
+	
+	height: 110px;
+	
+	bottom: -45px;
+	
+}
+
+.info .social{
+	width: 100%;
+	margin-top: 15px;
+}
+.info .social i{
+	font-size: 18px;
+	margin-right: 15px;
+	color: white;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.review-page{
+	
+	height: auto;
+	
+}
+
+
+.review-page h1{
+
+	padding-top: 60px;
+	font-size: 20px;
+	
+	
+
+}
+.review-page span{
+	
+	padding-top: 90px;
+	font-size: 40px;
+	color: orange;
+	
+}
+.review-page p{
+	font-size: 12px;
+	padding: 0px 0px;
+}
+.review-row div {
+	margin-left: 0px;
+}
+
+.review-row div div{
+	width: 110%;
+
+
+
+}
+
+.review-row div div img{
+	width: 40%;
+	height: 40%;
+	margin-left: 50px;
+	
+}
+.review-row div div  h2{
+	font-weight: 400;
+font-size: 17px;
+	margin-bottom: -20px;
+
+}
+.review-row div div p{
+	padding: 5px 5px;
+	
+	font-size: 11px;
+	font-weight: 300;
+	
+}
+
+.review-icon  {
+	width: 70%;
+
+	margin-left: -10px;
+	font-size: 12px;
+	color: orange;
+	padding-top: 0px;
+	transition: 1s;
+	text-align: center;
+	background: white;
+	margin-bottom: 5px;
+	margin-top: -10px;
+} 
+
+.review-icon i{
+	font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contact-page h1{
+	
+	font-size: 20px;
+}
+.contact-page p{
+
+ font-size: 12px;
+  padding: 0px 10px;
+ 
+}
+.left-contact {
+	width: 30%;
+	height: 300px;
+
+
+
+} 
+.left-contact  img{
+	width: 80%;
+	height: 205px;
+
+
+
+
+}
+
+.right-contact-content{
+	width: 50%;
+	height: 280px;
+	
+	
+}
+
+.right-contact-content{
+	width: 50%;
+	height: 550px;
+	display: flex;
+	flex-direction: column;
+	text-align: left;
+	padding: 80px 50px;
+	background: white;
+	box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+	padding-left: 15%;
+	position: absolute;
+	top: 0;
+	margin-top: 30%;
+	right: 12.5%;
+}
+.input-box{
+	width: 85%;
+	height: 35px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	border: 2px solid transparent;
+	padding: 10px;
+	font-size: 14px;
+	box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+.msg{
+	width: 87%;
+	height: 100px;
+	margin-top: 5px;
+	border: 2px solid transparent;
+	padding-left: 7px;
+	padding-top: 10px;
+	font-size: 14px;
+	box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+.submit{
+	width: 100px;
+	min-height: 45px;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+	color: white;
+	float: left;
+	margin-top: 10px;
+	border: none;
+	padding: 2px 2px;
+	margin-left: 70px;
+	background: #f9a529;
+	font-size: 13px;
+	font-weight: 300;
+	transition: 0.5s;
+	z-index: 100;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.social-links i{
+		font-size: 13px;
+	
+		
+	}
+	.copyright p{
+		font-size: 13px;
+	}
+
+
+.top i{
+	
+	margin-right: 15px;
+	
+	font-size: 14px;
+	
+}
+
+
+
+}
